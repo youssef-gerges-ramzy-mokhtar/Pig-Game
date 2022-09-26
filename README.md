@@ -1,5 +1,5 @@
 # Pig Game
-A Webpage to play Pig Card Game, you can view the rules of the Game at the following [linkl(https://www.wikiwand.com/en/Pig_(dice_game))
+A Webpage to play Pig Card Game, you can view the rules of the Game at the following [link](https://www.wikiwand.com/en/Pig_(dice_game))
 
 ## Webpage Link
 You can access this webpage through the following link: https://pig-game-ef4c5.web.app/
